@@ -3,7 +3,7 @@
 ShuffleMix is a simple, inexpensive yet effective data augmentation method that can help improve the predictive accuracy
 and robustness of vision models. 
 
-<img src="misc/figure1.png" style="width:15cm">
+<img src="misc/figure1.png" style="width:12cm">
 
 ## Setup
 ### Install Package Dependencies
@@ -67,7 +67,7 @@ For more training details, please refer to ```scripts\*.sh``` or our paper [Shuf
 If you want to evaluate the model under different noises, please run ```evaluate.py```for evaluation.
 
 ## Results
-<img src="misc/figure2.png" style="width:15cm">
+<img src="misc/figure2.png" style="width:12cm">
 
 For more results, please refer to our paper [ShuffleMix](https://arxiv.org/pdf/2305.18684v1.pdf).
 
